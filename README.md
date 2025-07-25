@@ -1,9 +1,9 @@
 # Misinfo 79K-NLP Project
 NLP pipeline for measuring misinformation (MISI) on a 79k “fake vs. true” news dataset.
 ## Project Overviews
-### Datasets
--DataSet_Misinfo_FAKE.csv
--DataSet_Misinfo_TRUE.csv
+### Data Sources
+-Fake News Dataset: DataSet_Misinfo_FAKE.csv
+-True News Dataset: DataSet_Misinfo_TRUE.csv
 ### Tools
 -Python 3.x
 Core scripting language for data processing, modeling, and analysis.
