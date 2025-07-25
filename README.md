@@ -2,8 +2,7 @@
 NLP pipeline for measuring misinformation (MISI) on a 79k “fake vs. true” news dataset.
 ## Project Overviews
 ### Data Sources
-- Fake News Dataset: DataSet_Misinfo_FAKE.csv
-- True News Dataset: DataSet_Misinfo_TRUE.csv
+- Public Kaggle Misinfo 79k dataset: https://www.kaggle.com/datasets/stevenpeutz/misinformation-fake-news-text-dataset-79k
 ### Tools
 - Python 3.x: Core scripting language for data processing, modeling, and analysis.
 - Jupyter Notebooks / Google Colab: Interactive prototyping (data cleaning, embedding, network construction, visualization).
